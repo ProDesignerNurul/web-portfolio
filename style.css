@@ -1,4 +1,12 @@
 body{
-    margin: 0%;
-    
+    margin: 0 auto;
+    width: 90%;
+}
+.high-light {
+    width: 40%;
+    float: left;
+    margin: ;
+}
+.high-light img{
+    width: 100%;
 }
